@@ -5,7 +5,7 @@ const projects = [
     description: "Build an E-commerce app using react & tailwind.",
     tags: ["React", "Tailwind"],
     demo: "#",
-    repo: "#",
+    repo: "https://github.com/Ronit24-04/E-commerce-App.git",
     image: "/src/assets/projectImages/project1.jpg",
   },
   {
@@ -14,7 +14,7 @@ const projects = [
     description: "Fallet is a finance tracker app.",
     tags: ["Fullstack", "Express"],
     demo: "#",
-    repo: "#",
+    repo: "https://github.com/Ronit24-04/personal-finance-tracker.git",
     image: "/src/assets/projectImages/project2.jpg",
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     description: "Build a task management app on react and tailwind.",
     tags: ["Fullstack", "Express"],
     demo: "#",
-    repo: "#",
+    repo: "https://github.com/Ronit24-04/task-management-app.git",
     image: "/src/assets/projectImages/project3.jpg",
   },
 ];
